@@ -1,5 +1,6 @@
 # rust-dekstop
 
-Learning project: building a desktop app in Rust with egui/eframe.
+Learning project: building apps in Rust.
 
-See [GUIDE.md](GUIDE.md) for the step-by-step guide.
+- [GUIDE.md](GUIDE.md) - desktop app with egui/eframe
+- [BACKEND_GUIDE.md](BACKEND_GUIDE.md) - REST API backend with Axum + SQLx + PostgreSQL
